@@ -1,4 +1,4 @@
 <div align="center">
-  <img src="https://github.com/CrafterMB217/CrafterMB217/blob/main/background.eps"
+  <img src="https://github.com/CrafterMB217/CrafterMB217/blob/main/background.jpg"
        alt="Background" /></a>
 </div>
